@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SauceDemo Test Suite"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.696">
+    <properties></properties>
+
+
+
+            <testcase
+                name="verifyValidUserLogin"
+                time="0.349"
+                classname="Tests.SauceDemoTests">
+            </testcase>
+            <testcase
+                name="verifyCompletePurchase"
+                time="1.407"
+                classname="Tests.SauceDemoTests">
+            </testcase>
+            <testcase
+                name="verifyLogout"
+                time="0.652"
+                classname="Tests.SauceDemoTests">
+            </testcase>
+            <testcase
+                name="verifyPriceLowToHigh"
+                time="0.926"
+                classname="Tests.SauceDemoTests">
+            </testcase>
+            <testcase
+                name="verifyAddMultipleItemsToCart"
+                time="1.097"
+                classname="Tests.SauceDemoTests">
+            </testcase>
+            <testcase
+                name="verifyInvalidUserLogin"
+                time="0.265"
+                classname="Tests.SauceDemoTests">
+            </testcase>
+</testsuite>
